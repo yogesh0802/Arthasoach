@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import shapeImg from "../img/img-wave2.png";
 // import heroImg1 from "../img/header/hero-image-1.jpg";
-import heroImg4 from "../img/team/arth1.png";
+// import heroImg4 from "../img/team/arth1.png";
 // import heroImg2 from "../img/header/hero-image-2.jpg";
 // import heroImg3 from "../img/header/hero-image-3.jpg";
-// import heroImg1 from "../img/header/hero-image-4.jpg";
+import heroImg1 from "../img/header/hero-image-4.jpg";
 import { Link } from "react-router-dom";
 import "../../node_modules/react-modal-video/css/modal-video.css";
 import ModalVideo from "react-modal-video";
