@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../img/arth.png";
+import logo from "../img/arth-removebg-preview.png";
 //import Navbar from "./Navbar";
 import { useEffect } from "react";
 import { Link } from "react-router-dom";

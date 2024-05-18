@@ -28,7 +28,7 @@ const Footer = () => {
                   </Link>
 
                   <Link
-                    to="https://www.linkedin.com/company/symbiotic-infotech-pvt-ltd/"
+                    to="https://www.linkedin.com/company/"
                     className="linkedin"
                   >
                     <i className="bi bi-linkedin"></i>
@@ -60,37 +60,13 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-              {/* <div className="col-lg-3 col-6 footer-links">
-                <h4>Our Services</h4>
-                <ul>
-                  <li>
-                    <i className="bi bi-dash"></i>
-                    <HashLink smooth to ="/services/#Educational-content">
-                      Educational Content
-                    </HashLink>
-                  </li>
-                  <li>
-                    <i className="bi bi-dash"></i>
-                    <HashLink smooth to ="/services/#Entertainment-content">
-                      Entertainment Content
-                    </HashLink>
-                  </li>
-                  <li>
-                    <i className="bi bi-dash"></i>
-                    <HashLink smooth to="/services/#Games">Games</HashLink>
-                  </li>
-                  <li>
-                    <i className="bi bi-dash"></i>
-                    <HashLink smooth to ="/services/#Sports">Sports</HashLink>
-                  </li>
-                </ul>
-              </div> */}
+              
               <div className="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                 <h4>Contact Us</h4>
                 <br />
                 <strong>Phone:</strong> +91 - 44 - 4208 2102 <br />
                 <strong>Email: </strong>
-                <a href="mailto:info@symbioticinfo.com">info@arthasoach.com</a>
+                <a href="mailto:info@arthasoach.com">info@arthasoach.com</a>
                 <br />
               </div>
               <div className="col-lg-3 col-6 footer-links">
