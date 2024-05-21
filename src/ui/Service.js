@@ -1,8 +1,8 @@
 import React from "react";
-import education from "../img/education-bg.png";
-import entertainment from "../img/entertainment-bg.png";
-import games from "../img/games-bg.png";
-import sports from "../img/sports-bg.png";
+import education from "../img/abc.png";
+import entertainment from "../img/efg.png";
+import games from "../img/klm.png";
+import sports from "../img/image 35124.png";
 
 import InnerHeaderBanner from "../components/InnerHeaderBanner";
 import InnerHeader from "../components/InnerHeader";

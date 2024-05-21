@@ -98,12 +98,9 @@ const Contact = () => {
                     <h4>Location:</h4>
                     <h5>India:</h5>
                     <p>
-                      # 1,Sundaram Illam,Chellamal Street, <br /> Shenoy Nagar,
-                      Chennai - 600 030.
+                      Office no.440, Marvel Vista, above PNG Jewellars,  <br />Block A, Lullanagar, Pune, Maharashtra 411040
                     </p>
                     <br />
-                    <h5>U.A.E:</h5>
-                    <p>P.O.Box No 95114,Abu Dhabi,UAE </p>
                   </div>
                 </div>
 
@@ -112,8 +109,8 @@ const Contact = () => {
                   <div>
                     <h4>Email:</h4>
                     <p>
-                      <a href="mailto:info@symbioticinfo.com">
-                        info@symbioticinfo.com
+                      <a href="mailto:info@arthasoach.com">
+                      info@arthasoach.com
                       </a>
                     </p>
                   </div>

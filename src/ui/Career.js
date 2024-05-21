@@ -46,8 +46,9 @@ const Career = () => {
                   <blockquote>
                     <p>
                       Please send your resumes to
-                      <a href="mailto:hr@symbioticinfo.com">
-                        hr@symbioticinfo.com
+                      <br/>
+                      <a href="mailto:info@arthasoach.com">
+                      hr@arthasoach.com
                       </a>
                     </p>
                   </blockquote>

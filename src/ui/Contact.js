@@ -102,8 +102,7 @@ const Contact = () => {
                     <h4>Location:</h4>
                     <h5>India:</h5>
                     <p>
-                      # 205,Shalimar Morya Park, <br /> Near Infinity Mall,
-                      Katraj(W), Pune - 600 030.
+                      Office no.440, Marvel Vista, above PNG Jewellars, Block A,<br /> Lullanagar, Pune, Maharashtra 411040
                     </p>
                     <br />
                   </div>

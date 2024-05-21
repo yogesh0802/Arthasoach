@@ -64,7 +64,7 @@ const Footer = () => {
               <div className="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                 <h4>Contact Us</h4>
                 <br />
-                <strong>Phone:</strong> +91 - 44 - 4208 2102 <br />
+                <strong>Phone:</strong> +91-9890130750 <br />
                 <strong>Email: </strong>
                 <a href="mailto:info@arthasoach.com">info@arthasoach.com</a>
                 <br />
@@ -73,8 +73,7 @@ const Footer = () => {
                 <h4>Our Address</h4>
                 <p>
                   <address>
-                    1,Sundaram Illam, <br /> Chellamal Street, <br /> Shenoy
-                    Nagar, Chennai - 600 030. <br />
+                  Office no.440, Marvel Vista, above PNG Jewellars, Block A, Lullanagar, Pune, Maharashtra 411040 <br />
                   </address>
                 </p>
               </div>

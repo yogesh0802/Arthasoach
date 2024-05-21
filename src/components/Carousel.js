@@ -23,7 +23,7 @@ const Carousel = () => {
           >
             <div className="col-lg-7 col-md-12 col-12">
               <h2 data-aos="fade-up">
-                ArthaSoch: All-In-One Finantial Support
+                ArthaSoch: All-In-One financial Support
               </h2>
               <blockquote data-aos="fade-up" data-aos-delay="100">
                 <p>YOUR GUIDE TO STRESS-FREE FINANCES AND SMARTER INVESTING.</p>
